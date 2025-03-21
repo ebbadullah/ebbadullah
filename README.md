@@ -41,3 +41,27 @@
   <a href="https://twitter.com/ebadullah" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" title="Twitter"/></a>
   <a href="https://www.instagram.com/ebadullah" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" title="Instagram"/></a>
 </div>
+
+---
+
+## 📊 **GitHub Stats:**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ebadullah&show_icons=true&theme=default" alt="GitHub Stats" />
+</div>
+
+---
+
+## 💻 **Most Used Languages:**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebadullah&layout=compact&theme=default" alt="Most Used Languages" />
+</div>
+
+---
+
+## 🔥 **Contributions Streak:**
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebadullah" alt="GitHub Streak Stats" />
+</div>
