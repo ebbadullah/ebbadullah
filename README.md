@@ -23,15 +23,22 @@
 
 ---
 
-## 🛠 **Tech Stack:**  
+## 🛠 **Tech Stack:**
 <div align="center">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React"/>
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" title="Firebase"/>
-  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" title="Redux"/>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/></a>
 </div>
+
+
 
 ---
 
@@ -44,24 +51,22 @@
 
 ---
 
-## 📊 **GitHub Stats:**
+## 📊 **GitHub Stats in Grid View:**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ebadullah&show_icons=true&theme=default" alt="GitHub Stats" />
-</div>
-
----
-
-## 💻 **Most Used Languages:**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebadullah&layout=compact&theme=default" alt="Most Used Languages" />
-</div>
-
----
-
-## 🔥 **Contributions Streak:**
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebadullah" alt="GitHub Streak Stats" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ebadullah&show_icons=true&theme=default" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebadullah&layout=compact&theme=default" alt="Most Used Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebadullah" alt="GitHub Streak Stats" />
+      </td>
+    </tr>
+  </table>
 </div>
