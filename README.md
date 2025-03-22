@@ -45,8 +45,9 @@
 ## 💬 **Let's Connect:**  
 <div align="center">
   <a href="https://www.linkedin.com/in/ebadullah" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn"/></a>
-  <a href="https://twitter.com/ebadullah" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" title="Twitter"/></a>
-  <a href="https://www.instagram.com/ebadullah" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" title="Instagram"/></a>
+  <a href="https://www.facebook.com/EBAD.BALOCH345" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" title="Facebook"/></a>
+  <a href="https://www.instagram.com/itxebad1918/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" title="Instagram"/></a>
+   <a href="https://discord.gg/UB4DhEyt" target="_blank"><img src="https://img.icons8.com/color/48/000000/discord" alt="Discord" title="Discord"/></a>
 </div>
 
 ---
