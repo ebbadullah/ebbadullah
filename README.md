@@ -68,7 +68,7 @@
     </tr>
     <tr>
       <td colspan="2">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ebadullah&theme=tokyonight" alt="GitHub Streak Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebadullah" alt="GitHub Streak Stats" />
       </td>
     </tr>
   </table>
