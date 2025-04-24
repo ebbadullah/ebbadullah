@@ -63,12 +63,12 @@
         <img src="https://github-readme-stats.vercel.app/api?username=ebadullah&show_icons=true&theme=default" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebadullah&layout=compact&theme=default" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebadullah&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebadullah" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ebadullah&theme=tokyonight" alt="GitHub Streak Stats" />
       </td>
     </tr>
   </table>
