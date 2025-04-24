@@ -36,6 +36,8 @@
   <a href="#"><img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Bootstrap-000640?style=for-the-badge&logo=bootstrap&logoColor=purple" alt="Bootstrap"/></a>
+
 </div>
 
 
