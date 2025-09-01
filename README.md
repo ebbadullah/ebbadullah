@@ -50,38 +50,7 @@
 
 <div align="center">
 
-## 🚀 **Featured Projects**
 
-<table>
-<tr>
-<td width="50%">
-
-### 🎬 **Movie Streaming App**
-**Tech Stack:** React, Node.js, MongoDB, Express
-- 🔐 JWT Authentication
-- 🎥 Video Streaming
-- 💳 Payment Integration
-- 📱 Responsive Design
-
-[🔗 Live Demo](https://your-demo-link.com) | [📁 Repository](https://github.com/ebadullah/project)
-
-</td>
-<td width="50%">
-
-### 🛒 **E-Commerce Platform**
-**Tech Stack:** Next.js, Express, MongoDB, Stripe
-- 🛍️ Shopping Cart
-- 💰 Payment Gateway
-- 📊 Admin Dashboard
-- 🔍 Search & Filter
-
-[🔗 Live Demo](https://your-demo-link.com) | [📁 Repository](https://github.com/ebadullah/project)
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
