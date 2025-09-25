@@ -36,13 +36,13 @@
 ## 🛠️ **Tech Arsenal**
 
 ### **Frontend Technologies**
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,sass,figma,redux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,sass,redux" />
 
 ### **Backend Technologies**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase,supabase,prisma" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase" />
 
 ### **Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,vercel,netlify" />
 
 </div>
 
