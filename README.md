@@ -24,7 +24,7 @@
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Node.js, MongoDB, Express**
 - ⚡ Fun fact: **I debug with console.log and I'm proud of it!**
-- 🎯 2024 Goal: **Contribute to Open Source & Build SaaS Products**
+- 🎯 2025 Goal: **Contribute to Open Source & Build SaaS Products**
 
 🔗 **Portfolio:** [ebadofficial.pages.dev](https://ebadofficial.pages.dev/)  
 ✉️ **Email:** ebadbaloch345@gmail.com
