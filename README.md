@@ -39,10 +39,10 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,sass,redux" />
 
 ### **Backend Technologies**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 
 ### **Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
 
 </div>
 
