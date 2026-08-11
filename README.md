@@ -26,7 +26,7 @@
 - ⚡ Fun fact: **I debug with console.log and I'm proud of it!**
 - 🎯 2025 Goal: **Contribute to Open Source & Build SaaS Products**
 
-🔗 **Portfolio:** [ebadofficial.pages.dev](https://ebadbaloch.vercel.app/)  
+🔗 **Portfolio:** [[ebadofficial.pages.dev](https://ebadbaloch.vercel.app/)]
 ✉️ **Email:** ebadbaloch345@gmail.com
 
 ---
